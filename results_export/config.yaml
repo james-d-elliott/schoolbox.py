@@ -1,0 +1,11 @@
+sql:
+  host: 127.0.0.1
+  port: 3306
+  db: <sql db name>
+  user: <sql username>
+  pass: <sql password>
+ssh:
+  host: <host to connect to via ssh, thus making the sql host the localhost ip>
+  port: 22
+  user: <ssh user>
+  pass: <ssh pass>
